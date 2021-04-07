@@ -10,7 +10,7 @@ A powerful tweak for Triller!
    
     | Application | Version | Turtle |
     | --- | --- | --- |
-    | [Triller](https://mega.nz/file/UV4lFAKB#qU0epoTXhQY41tFIla9LQCGWKPHmedJX2Sf9xa4xojw) | 19.1 | 1.2 |
+    | [Triller](https://mega.nz/file/wZ50lQhT#LnGAlJTyDXbXNUuVeGlQp-qgG6hsw6DLlwM1Qa_VgNA) | 24.0 | 1.3 |
 
         
 &nbsp;
@@ -41,6 +41,3 @@ A powerful tweak for Triller!
 
 ***Please note that push notifications may not work***
 
-
-### TODO 
-A more thorough guide is needed!  
